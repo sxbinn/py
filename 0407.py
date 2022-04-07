@@ -22,3 +22,5 @@ print("제니씨~ 손님 커피 여기 있습니다.\n")
 coffee=int(input("리사씨, 어떤 커피를 드릴까요? (1:아메리카노, 2:카페라떼, 3:카푸치노, 4:에스프레소 )"))
 coffee_machine(coffee)
 print("리사씨~ 손님 커피 여기 있습니다.\n")
+
+#리스트로 마지막 코드 줄일수 있음. cList=[], for i in cList: coffee=int(input(str(i)+"씨 커피 나왔습니다."))
